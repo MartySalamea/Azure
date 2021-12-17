@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "vmname": {
-      "value": "demovm2"
+      "value": "demovm"
     },
     "vmAdminUser": {
       "value": "demousr"
     },
 	"vmAdminPassword": {
-      "value": "AzurePortal@345"
+      "value": "Shayton166666"
     },
 "vmWindowsVersion": {
       "value": "2016-Datacenter"
